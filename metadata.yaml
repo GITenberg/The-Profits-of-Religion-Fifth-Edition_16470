@@ -1,0 +1,31 @@
+_repo: The-Profits-of-Religion-Fifth-Edition_16470
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sinclair, Upton
+    aliases:
+    - Sinclair, Upton Beall
+    - Fitch, Clarke
+    - Garrison, Frederick
+    birthdate: 1878
+    deathdate: 1968
+    gutenberg_agent_id: '88'
+    url: http://www.gutenberg.org/2009/agents/88
+    wikipedia: http://en.wikipedia.org/wiki/Upton_Sinclair
+description: ''
+gutenberg_issued: '2005-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16470'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity -- Controversial literature'
+- !lcc 'BL'
+title: The Profits of Religion, Fifth Edition
+url: http://www.gutenberg.org/ebooks/16470
